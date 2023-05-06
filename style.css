@@ -1,0 +1,47 @@
+* {
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: blanchedalmond;
+}
+.center{
+    text-align: center;
+}
+#person{
+    color: white;
+    margin: 0;
+    padding: 30px;
+    background-color: burlywood;
+}
+
+header{
+    padding: 30px;
+    background-color: coral;
+}
+
+header img {
+    border-radius: 50%;
+}
+
+.conten1 {
+    overflow: auto;
+    margin-bottom: 10px;
+}
+.left-content{
+    float: left;
+    width: 45%;
+    padding-left: 50px;
+}
+.right-content{
+    text-align: left;
+    float: right;
+    width: 45%;  
+}
+
+footer{
+    text-align: center;
+    padding: 30px;
+    background-color: coral;
+}
